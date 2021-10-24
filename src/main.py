@@ -1,0 +1,1 @@
+print('This is a placeholder for the future Sightseeings app.')
